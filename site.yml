@@ -1,16 +1,13 @@
-title : Blog Title
+title : ReadMore
 tagline: Blog Tagline
-author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+author : 
+  name : Stefan "Odi" Oderbolz
+  email : odi@readmore.ch
+  github : odi86
+  twitter : odi
 
 navigation :
   - archive.html
   - tags.html
-  - categories.html
-  - pages.html
   - about.md
   
